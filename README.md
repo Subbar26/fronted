@@ -5,7 +5,7 @@ Miguel Fernando Pimiento Escobar - 2210054, Jesús David Ramírez Celis - 221159
 ## Objetivo
 Emplear diversos modelos de clasificación y evaluar su desempeño para identificar diferentes tipos de aves de acuerdo a su especie.
 # Dataset
-El dataset utilizado para este proyecto se puede encontrar en Kaggle: [100 Bird Species](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
+El dataset utilizado para este proyecto se puede encontrar en Kaggle: [BIRDS 525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
 ## Modelos  
 Gaussian Naive Bayes, Decision Tree, Random Forest, SVM, Deep Learning.
 ## Enlaces:
